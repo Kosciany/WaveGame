@@ -6,7 +6,7 @@ This is a simple clicker game.
 
 ## Installation
 
-Following script works with Python 3.11 on Windows, should work on Linux. Instal requirements listed in requirements.txt.
+Following script works with Python 3.11 on Windows, should work on Linux. Install requirements listed in requirements.txt.
 
 ## Usage
 
